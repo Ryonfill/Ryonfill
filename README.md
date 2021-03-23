@@ -3,7 +3,7 @@
 
 # Personal Links
 - Profile - [Ryonfill](https://github.com/Ryonfill)
-- Company - [DiscordAddons](https://github.com/DiscordAddons)
+- Company/Organization - [DiscordAddons](https://github.com/DiscordAddons)
 - Twitter - [@Ryonfill](https://twitter.com/Ryonfill)
 - Discord - `Ryonfill#3571`
 
@@ -25,7 +25,7 @@
 - [Chroma Folders](https://github.com/DiscordAddons/Chroma-Folders) - `Public`
 - [Dark Channels And Unread Bar](https://github.com/DiscordAddons/Dark-Channels-And-Unread-Bar) - `Public`
 - [Blur Folders](https://github.com/DiscordAddons/BlurFolders) - `Public`
-- [Info about DiscordAddons](https://github.com/DiscordAddons/info) - `Public`
+- [DiscordAddons](https://github.com/DiscordAddons/info) - `Public`
 - [Chromacord](https://github.com/DiscordAddons/Chromacord) - `Public, archived and discontinued`
 - [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate) - `Private and postponed`
 
