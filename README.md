@@ -15,29 +15,50 @@
 - Lua
 - CSS
 
-# Organizational Repos
-- [Wildberry - Codeblock Theme](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme) - `Public`
-- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme) - `Public, released.`
-- [Chroma Syntax Highlighting](https://github.com/DiscordAddons/Chroma-Syntax-Highlighting) - `Public`
-- [Light Codeblocks](https://github.com/DiscordAddons/Light-Codeblocks) - `Public`
-- [Blur Member List](https://github.com/DiscordAddons/BlurMemberList) - `Public`
-- [Chroma Folders](https://github.com/DiscordAddons/Chroma-Folders) - `Public`
-- [Dark Channels And Unread Bar](https://github.com/DiscordAddons/Dark-Channels-And-Unread-Bar) - `Public`
-- [Blur Folders](https://github.com/DiscordAddons/BlurFolders) - `Public`
-- [DiscordAddons](https://github.com/DiscordAddons/info) - `Public`
-- [Chromacord](https://github.com/DiscordAddons/Chromacord) - `Public, archived and discontinued`
-- [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate) - `Private and postponed`
+# Key
+- 🟢 - Public
+- 🟠 - Archived/Discontinued
+- 🔴 - Private
+- ⚪ - Postponed
 
-# Personal Repos
-- [iyplugins](https://github.com/Ryonss/iyplugins) - `Private and discontinued`
-- [LuaS](https://github.com/Ryonss/LuaS) - `Private and discontinued`
-- [BDSnips](https://github.com/Ryonss/BDSnips) - `Discontinued and archived`
+# Repos
 
+**ORGANIZATIONAL**
+- [Wildberry - Codeblock Theme](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme) 
+  - `🟢`
+- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme)
+  - `🟢`
+- [Chroma Syntax Highlighting](https://github.com/DiscordAddons/Chroma-Syntax-Highlighting)
+  - `🟢`
+- [Light Codeblocks](https://github.com/DiscordAddons/Light-Codeblocks)
+  - `🟢`
+- [Blur Member List](https://github.com/DiscordAddons/BlurMemberList)
+  - `🟢`
+- [Chroma Folders](https://github.com/DiscordAddons/Chroma-Folders)
+  - `🟢`
+- [Dark Channels And Unread Bar](https://github.com/DiscordAddons/Dark-Channels-And-Unread-Bar)
+  - `🟢`
+- [Blur Folders](https://github.com/DiscordAddons/BlurFolders)
+  - `🟢`
+- [DiscordAddons](https://github.com/DiscordAddons/info)
+  - `🟢`
+- [Chromacord](https://github.com/DiscordAddons/Chromacord)
+  - `🟢 & 🟠`
+- [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate)
+  - `🔴 & ⚪`
+
+**PERSONAL**
+- [iyplugins](https://github.com/Ryonfill/iyplugins)
+  - `🔴 and 🟠`
+- [LuaS](https://github.com/Ryonfill/LuaS)
+  - `🔴 and 🟠`
+- [BDSnips](https://github.com/Ryonfill/BDSnips)
+  - `🟠`
+  
 # Special Repos
-- [Ryonfill](https://github.com/Ryonfill/Ryonfill) - `Public`
+- [Ryonfill](https://github.com/Ryonfill/Ryonfill) 
+  - `🟢`
 <!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
