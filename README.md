@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ryonnn)
 
 i make discord themes for fun.
-websites/profiles/links:
+
+**websites/profiles/links:**
 - https://luxurydmg.carrd.co
 - https://discord.bio/p/luxurydmg
 - https://twitter.com/luxurydmg
